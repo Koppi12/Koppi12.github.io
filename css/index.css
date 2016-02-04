@@ -1,45 +1,11 @@
+.background{
+	background-color: black;
 
-#head{
-margin: 0;
-padding-top:50px;
-padding-bottom:50px;
-text-align:center;
-background-color:black;
-font-size:50px;
-color:#00FF00;
 }
+
 .body{
-margin:0;
-padding-top:30px;
-padding-bottom:30px;
-text-align:center;
-font-size:20px;
-color:black;
-}
-#body{
-margin:0;
-padding-top:20px;
-padding-bottom:20px;
-text-align:center;
-font-size:15px;
-color:black;
-}
-#body2{
-margin:0
-padding-top:20px;
-padding-bottom:20px;
-text-align:center;
-font-size:15px;
-color:black;
-}
-
-#body3{
-margin:0
-padding-top:20px;
-padding-bottom:20px;
-text-align:center;
-font-size:15px;
-color:black;
+	color: white;
+	text-align:center;
 }
 
 
