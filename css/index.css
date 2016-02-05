@@ -4,6 +4,7 @@
 }
 
 .body{
+	border-top: yellow 5px solid;
 	color: white;
 	text-align:center;
 }
@@ -19,7 +20,7 @@
 }
 .Goal{
 
-	color:green;
+	color:yellow;
 	text-align: center;
 	font-family: "YuGothic","游ゴシック",sans-serif;
 	font-size: 80%;
@@ -41,12 +42,13 @@
 table{
 	margin-top: 300px;
 	float: right;
+	font-family: "YuGothic","游ゴシック",sans-serif;
 	border-collapse: collapse;
 	width: 120;
 }
 th.profile{
 
-	border-top: blue 4px solid;
+	border-top: yellow 4px solid;
 }
 
 
