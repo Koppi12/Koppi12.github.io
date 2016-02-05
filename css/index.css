@@ -38,6 +38,16 @@
 	font-family: "YuGothic","游ゴシック",sans-serif;
 
 }
+table{
+	margin-top: 100px;
+	border-collapse: collapse;
+	width: 120;
+}
+th.profile{
+
+	border-top: blue 4px solid;
+}
+
 
 
 
