@@ -8,6 +8,23 @@
 	text-align:center;
 }
 
+#Discription{
+
+	color:white;
+	text-align: center;
+	font-size: 100%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#Goal{
+
+	color:green;
+	text-align: center;
+	font-size: 80%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
 
 
 
