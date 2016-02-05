@@ -17,7 +17,7 @@
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
-#Goal{
+.Goal{
 
 	color:green;
 	text-align: center;
@@ -26,6 +26,19 @@
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+.contentA{
+	float: left;
+	text-align: center;
+	width: 300px;
+	font-family: "YuGothic","游ゴシック",sans-serif;
+
+}
+.contentB{
+	text-align: center;
+	font-family: "YuGothic","游ゴシック",sans-serif;
+
+}
+
 
 
 
