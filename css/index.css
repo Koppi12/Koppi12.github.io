@@ -39,7 +39,8 @@
 
 }
 table{
-	margin-top: 100px;
+	margin-top: 300px;
+	float: right;
 	border-collapse: collapse;
 	width: 120;
 }
