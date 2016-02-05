@@ -1,17 +1,17 @@
 .background{
-	background-color: black;
+	background-color: white;
 
 }
 
 .body{
-	border-top: yellow 5px solid;
-	color: white;
+	margin-top: 0px;
+	color: black;
 	text-align:center;
 }
 
 #Discription{
 
-	color:white;
+	color:black;
 	text-align: center;
 	font-size: 100%;
 	font-family: "YuGothic","游ゴシック",sans-serif;
@@ -20,7 +20,7 @@
 }
 .Goal{
 
-	color:yellow;
+	color:black;
 	text-align: center;
 	font-family: "YuGothic","游ゴシック",sans-serif;
 	font-size: 80%;
@@ -32,11 +32,15 @@
 	text-align: center;
 	width: 300px;
 	font-family: "YuGothic","游ゴシック",sans-serif;
+	border-bottom: blue 2px solid;
+	margin-right: 50px;
 
 }
 .contentB{
 	text-align: center;
 	font-family: "YuGothic","游ゴシック",sans-serif;
+	
+	margin-left: 50px;
 
 }
 table{
@@ -48,7 +52,8 @@ table{
 }
 th.profile{
 
-	border-top: yellow 4px solid;
+	border-bottom: blue 2px solid;
+
 }
 
 
