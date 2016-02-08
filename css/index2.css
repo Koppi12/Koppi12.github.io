@@ -1,12 +1,42 @@
-.background{
-	
-	background-color: black;
-	color: white;
-	background-image: url("../image/razer.jpg");
+#header{
+
+	height: 5%;
+	background-color: red;
+	margin: 0;
+}
+#contentA{
+
+	background-color: orange;
+	height: 80%;
+	width: 33%;
+	float: left;
+	margin-left: 0;
+	margin-right: 0;
 
 }
-#test{
+#contentB{
+
+	background-color: black;
+	height: 80%;
+	width: 33%;
 	color: white;
-	text-align: center;
-	font-size: 80%; 
+	float: left;
+	margin-left: 0;
+	margin-right: 0;
 }
+#contentC{
+
+	background-color: white;
+	height: 80%;
+	width: 33%;
+	float: left;
+	margin-left: 0;
+	margin-right: 0;
+}
+#footer{
+
+	height: 15%;
+	background-color: blue;
+	width: 100%;
+	clear: both;
+}	
