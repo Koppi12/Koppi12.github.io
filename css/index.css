@@ -71,9 +71,10 @@ body{
 #contentBText{
 
 	margin-top: 5px;
-	margin-right: 60%;
+	margin-right: 40%;
 	margin-left: 10%;
 	border-left: red 2px solid;
+	text-align: left;
 }
 
 #profilefoot{
