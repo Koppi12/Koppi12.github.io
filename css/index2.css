@@ -3,14 +3,18 @@
 #header{
 
 	height: 5%;
-	background-color: red;
+	background-color: white;
+	color: black;
 	margin: 0;
+	padding: 0;
 }
 #contentA{
 
-	background-color: orange;
+	background-color: black;
+	color: white;
+	text-align: left;
 	height: 80%;
-	width: 33%;
+	width: 20%;
 	float: left;
 	margin-left: 0;
 	margin-right: 0;
@@ -18,19 +22,10 @@
 }
 #contentB{
 
-	background-color: black;
-	height: 80%;
-	width: 33%;
-	color: white;
-	float: left;
-	margin-left: 0;
-	margin-right: 0;
-}
-#contentC{
-
 	background-color: white;
+	color: black;
 	height: 80%;
-	width: 33%;
+	width: 80%;
 	float: left;
 	margin-left: 0;
 	margin-right: 0;
